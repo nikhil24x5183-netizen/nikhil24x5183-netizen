@@ -1,28 +1,28 @@
 <div align="center">
 
   <!-- 1. Animated Luxury Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,30&height=230&section=header&text=NIKHIL%20MUKESH%20AWADHWAL&fontSize=40&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=Building%20AI-Powered%20Systems%20%7C%20Robotics%20%7C%20ECE%20Student%20@%20NMIET%20Pune&descAlignY=62&descAlign=50" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,30&height=230&section=header&text=NIKHIL%20MUKESH%20AWADHWAL&fontSize=40&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=Building%20AI-Powered%20Systems%20%7C%20Robotics%20%7C%2017%20Public%20Repos&descAlignY=62&descAlign=50" width="100%" alt="Header Banner"/>
 
   <br/>
 
   <!-- 2. High-Visibility Animated Typing SVG -->
   <a href="https://github.com/nikhil24x5183-netizen">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&background=0D111700&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Building+AI-Powered+Systems+%26+Robotics;%F0%9F%A4%96+Specialist+in+AI+Agents+%26+Web3+Security;%F0%9F%9A%81+ECE+Student+@+NMIET+Pune+(CGPA+8.64);%F0%9F%9B%B0%EF%B8%8F+ISRO+Program+Participant+%7C+Creator+of+ScanShield" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=A78BFA&background=0D111700&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Building+AI-Powered+Systems+%26+Robotics;%F0%9F%93%88+JavaScript+(944KB)+%7C+Python+(755KB)+%7C+TypeScript+(213KB);%F0%9F%A4%96+Creator+of+TRACE+FINDERS%2C+ScanShield+%26+VibeShield;%F0%9F%9A%81+ECE+Student+@+NMIET+Pune+(CGPA+8.64)+%7C+ISRO+Participant" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
   <!-- 3. Animated & Glowing Header Badges -->
-  <img src="https://img.shields.io/badge/Degree-B.Tech%20in%20ECE%20%40%20NMIET%20Pune-4C1D95?style=for-the-badge&logo=academic-tree&logoColor=white" alt="ECE Student"/>
-  <img src="https://img.shields.io/badge/CGPA-8.64%20%2F%2010.0-6D28D9?style=for-the-badge&logo=award&logoColor=white" alt="CGPA"/>
+  <img src="https://img.shields.io/badge/Repos-17%20Public%20Repositories-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="17 Repos"/>
+  <img src="https://img.shields.io/badge/Degree-B.Tech%20ECE%20%40%20NMIET-6D28D9?style=for-the-badge&logo=academic-tree&logoColor=white" alt="ECE Student"/>
+  <img src="https://img.shields.io/badge/CGPA-8.64%20%2F%2010.0-7C3AED?style=for-the-badge&logo=award&logoColor=white" alt="CGPA"/>
   <img src="https://img.shields.io/badge/ISRO-Program%20Participant-005696?style=for-the-badge&logo=nasa&logoColor=white" alt="ISRO Participant"/>
-  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 
   <br/><br/>
 
   <!-- 4. Interactive Action Buttons -->
   <a href="https://nikhil24x5183-netizen.github.io/resturant">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Projects-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Live_Showcase-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/nikhilawadhwal">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -47,26 +47,23 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Languages & Tech Stack (Real Contribution Breakdown)
 
 <div align="center">
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/AI_Agents-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/n8n_Automation-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/Algorand_Web3-000000?style=for-the-badge&logo=algorand&logoColor=white" alt="Algorand"/>
-  <img src="https://img.shields.io/badge/Pixhawk_%2F_Jetson_Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Jetson Nano"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-944_KB-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-755_KB-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-572_KB-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/TypeScript-213_KB-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/CSS3-113_KB-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 <br/>
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,nodejs,postgres,docker,vercel,git,github,aws,linux,arduino&theme=dark" alt="Skill Icons Matrix"/>
+    <img src="https://skillicons.dev/icons?i=js,python,html,css,ts,cpp,nodejs,express,postgres,docker,vercel,git,github,arduino&theme=dark" alt="Skill Icons Matrix"/>
   </a>
 </p>
 
@@ -76,7 +73,17 @@
 
 ---
 
-## ⚡ Featured Projects
+## ⚡ Real Shipped Repositories & Projects
+
+<details>
+<summary><b>🕵️ TRACE FINDERS — AI Criminal Network Analysis (SIH Finalist)</b></summary>
+<br/>
+AI-powered criminal network analysis & evidence fusion system engineered to process heterogeneous forensic data.
+<br/>
+📂 <b>Repository</b>: <a href="https://github.com/nikhil24x5183-netizen/tracefinders">nikhil24x5183-netizen/tracefinders</a>
+</details>
+
+<br/>
 
 <details>
 <summary><b>🛡️ ScanShield — AI Scam & Fraud Detection Platform</b></summary>
@@ -93,7 +100,7 @@ Scans SMS, WhatsApp, emails, screenshots, URLs, and documents to flag phishing a
 <br/>
 AI agent built at x402 Global Challenge PreHack (Bengaluru) using Algorand HTTP 402 pay-per-use micropayments (~0.5 ALGO/scan) to issue on-chain NFT audit certificates.
 <br/>
-🔗 <b>Live Demo</b>: <a href="https://hackthonn-two.vercel.app">hackthonn-two.vercel.app</a>
+🔗 <b>Live Demo</b>: <a href="https://hackthonn-two.vercel.app">hackthonn-two.vercel.app</a> | 📂 <b>Repo</b>: <a href="https://github.com/nikhil24x5183-netizen/x402">nikhil24x5183-netizen/x402</a>
 </details>
 
 <br/>
@@ -103,22 +110,34 @@ AI agent built at x402 Global Challenge PreHack (Bengaluru) using Algorand HTTP 
 <br/>
 Digitizes timetables, certificate approvals, and credit workflows with role-based student/faculty dashboards.
 <br/>
-🔗 <b>Live Demo</b>: <a href="https://ece-campus-erp-8qn9.vercel.app">ece-campus-erp-8qn9.vercel.app</a>
+🔗 <b>Live Demo</b>: <a href="https://ece-campus-erp-8qn9.vercel.app">ece-campus-erp-8qn9.vercel.app</a> | 📂 <b>Repo</b>: <a href="https://github.com/nikhil24x5183-netizen/ece-campus-erp">nikhil24x5183-netizen/ece-campus-erp</a>
 </details>
 
 <br/>
 
 <details>
-<summary><b>🚁 Autonomous Drone Systems & AI Agents</b></summary>
+<summary><b>🛒 SmartMart — Queueless Self-Billing App</b></summary>
 <br/>
-Drone builds with Pixhawk, ArduPilot, and Jetson Nano onboard compute + n8n conversational ordering AI agents.
+Self-checkout retail app with customer portal & admin inventory pricing dashboard.
+<br/>
+📂 <b>Repository</b>: <a href="https://github.com/nikhil24x5183-netizen/smartmart-self-billing-app">nikhil24x5183-netizen/smartmart-self-billing-app</a>
+</details>
+
+<br/>
+
+<details>
+<summary><b>🔒 SecurityScanner — Vulnerability Audit Engine</b></summary>
+<br/>
+Automated security scanner for code vulnerability detection and SAST compliance.
+<br/>
+📂 <b>Repository</b>: <a href="https://github.com/nikhil24x5183-netizen/securityscanner">nikhil24x5183-netizen/securityscanner</a>
 </details>
 
 <br/>
 
 ---
 
-## 🦕 Animal Animations & GitHub Activity
+## 🦕 Animal Animations & Real Contribution Telemetry
 
 <div align="center">
 
@@ -134,14 +153,14 @@ Drone builds with Pixhawk, ArduPilot, and Jetson Nano onboard compute + n8n conv
 
   <!-- Animated Contribution Grid Snake / Dino -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhil24x5183-netizen/nikhil24x5183-netizen/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhil24x5183-netizen/nikhil24x5183-netizen/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Contribution Grid Snake & Dino" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 
   <br/><br/>
 
-  <!-- 100% Reliable Streak Stats -->
+  <!-- Real Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil24x5183-netizen&theme=synthwave&hide_border=true&background=0d1117&ring=7c3aed&fire=8b5cf6&currStreakLabel=7c3aed" alt="Streak Stats" width="80%"/>
 
 </div>
