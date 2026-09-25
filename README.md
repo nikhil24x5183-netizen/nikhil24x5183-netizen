@@ -2,33 +2,34 @@
 
   <!-- 1. Animated Header Section -->
   <!-- a. Capsule Render wave banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,30&height=220&section=header&text=NIKHIL%20AWADHWAL&fontSize=42&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Senior%20Software%20%26%20AI/ML%20Engineer&descAlignY=62&descAlign=50" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,30&height=220&section=header&text=NIKHIL%20MUKESH%20AWADHWAL&fontSize=38&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Building%20AI-Powered%20Systems%20%7C%20ECE%20Student%20@%20NMIET%20Pune&descAlignY=62&descAlign=50" width="100%" alt="Header Banner"/>
 
   <br/>
 
   <!-- b. Typing SVG animation -->
   <a href="https://github.com/nikhil24x5183-netizen">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Senior+Full-Stack+%26+AI%2FML+Engineer;Architecting+Enterprise-Grade+AI+Systems;Specialist+in+Evidence+Fusion+%26+Distributed+Systems;Open+Source+Innovator+%26+Tech+Leader" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Systems+%26+Robotics;ECE+Student+@+NMIET+Pune+(CGPA+8.64);ISRO+Program+Participant;AI+Agents+%7C+Embedded+Systems+%7C+Web3+Security" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
   <!-- c. Academic badges & d. Location badge -->
-  <img src="https://img.shields.io/badge/Degree-B.Tech%20in%20Computer%20Engineering-4C1D95?style=for-the-badge&logo=academic-tree&logoColor=white" alt="Academic Degree"/>
-  <img src="https://img.shields.io/badge/Honors-High%20Academic%20Distinction-6D28D9?style=for-the-badge&logo=award&logoColor=white" alt="Academic Honors"/>
-  <img src="https://img.shields.io/badge/Location-India%20%7C%20Global%20Remote-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge"/>
+  <img src="https://img.shields.io/badge/Degree-B.Tech%20in%20ECE%20%40%20NMIET%20Pune-4C1D95?style=for-the-badge&logo=academic-tree&logoColor=white" alt="Academic Degree"/>
+  <img src="https://img.shields.io/badge/CGPA-8.64%20%2F%2010.0-6D28D9?style=for-the-badge&logo=award&logoColor=white" alt="CGPA"/>
+  <img src="https://img.shields.io/badge/ISRO-Program%20Participant-005696?style=for-the-badge&logo=nasa&logoColor=white" alt="ISRO Participant"/>
+  <img src="https://img.shields.io/badge/Location-Pune%2C%20Maharashtra%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 
   <br/><br/>
 
   <!-- e. Portfolio button, f. LinkedIn button, g. Email button, h. GitHub button -->
-  <a href="https://github.com/nikhil24x5183-netizen">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Showcase-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <a href="https://nikhil24x5183-netizen.github.io/resturant">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Projects-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/nikhil-awadhwal">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/nikhilawadhwal">
+    <img src="https://img.shields.io/badge/LinkedIn-nikhilawadhwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:nikhil.awadhwal.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Direct_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:nikhil24x5183@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nikhil24x5183%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/nikhil24x5183-netizen">
     <img src="https://img.shields.io/badge/GitHub-nikhil24x5183--netizen-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
@@ -55,20 +56,22 @@
  |____/ \____|___|_____||_|  \____|  |_| \_|___|_|\_\_(_)      
 ```
 
-I am a **Senior Software & AI/ML Engineer** dedicated to architecting high-availability distributed systems, intelligent multi-agent pipelines, and scalable enterprise applications. With a robust background in full-stack software development and artificial intelligence, I build resilient products that bridge low-level system performance with cutting-edge machine learning.
+I am a **Second-Year Electronics & Computer Engineering student at NMIET Pune (CGPA 8.64)** with hands-on technical experience across **AI agents, Web3 security, embedded robotics, and full-stack software development**. 
+
+I have built and shipped impactful real-world systems, including **ScanShield** (AI scam & phishing detection), **VibeShield** (AI code-security auditor with Algorand on-chain NFT certs built at x402 Global Challenge), a live **ECE Department ERP**, and custom **Drone Systems** powered by Pixhawk, ArduPilot, and Jetson Nano.
 
 ### 🌟 Core Focus & Engineering Philosophy
-- **Software Engineering Excellence**: Clean Code, Domain-Driven Design (DDD), and Microservices Architecture optimized for extreme throughput and sub-millisecond latencies.
-- **AI/ML & Evidence Fusion**: Expertise in Computer Vision, Graph Neural Networks, Multi-Agent Systems, and Large Language Model (LLM) orchestration pipelines.
-- **Full Stack Development**: End-to-end web and mobile applications utilizing React, Next.js, Node.js, FastAPI, PostgreSQL, and Redis.
-- **Product Engineering Mindset**: Translating complex business logic and intelligence requirements into production-ready software solutions with measurable impact.
+- **AI Agents & Security**: Developing intelligent autonomous workflows using LLM APIs, n8n, prompt engineering, and automated code auditing.
+- **Embedded & Robotics**: Designing autonomous drone hardware compute pipelines with Pixhawk flight controllers, ArduPilot firmware, and NVIDIA Jetson Nano.
+- **Full Stack Web Development**: Creating responsive, user-centric web applications and ERP portals with modern JavaScript/Python tech stacks.
+- **Ecosystem Leadership**: Active in hackathons and campus initiatives as Multimedia Lead for GDGoC NMIET, Campus Ambassador for E-Cell IIT Bombay, and GFG Campus Mantri (Ranked Top 289 nationally).
 
 ```
 +-----------------------------------------------------------------------------------+
 |                            OPEN TO OPPORTUNITIES                                  |
 +-----------------------------------------------------------------------------------+
-|  • Staff / Senior AI Engineer Roles      • Distributed Systems Architecture       |
-|  • Open Source Research Collaborations   • High-Impact Enterprise Consulting     |
+|  • AI & Software Engineering Internships • Robotics & Embedded Systems Internships |
+|  • Research Collaborations in Space Tech • Open Source & Hackathon Teams          |
 +-----------------------------------------------------------------------------------+
 ```
 
@@ -81,53 +84,43 @@ I am a **Senior Software & AI/ML Engineer** dedicated to architecting high-avail
 ### Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
-### Frontend Engineering
+### AI, ML & Security
 <p>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" alt="Webpack"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/AI_Agents-8B5CF6?style=flat-square&logo=openai&logoColor=white" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/n8n_Automation-FF6C37?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google AI Studio"/>
+  <img src="https://img.shields.io/badge/Algorand_HTTP_402-000000?style=flat-square&logo=algorand&logoColor=white" alt="Algorand"/>
+  <img src="https://img.shields.io/badge/Fraud_Detection-DC2626?style=flat-square&logo=shield&logoColor=white" alt="Fraud Detection"/>
 </p>
 
-### Backend & Databases
+### Embedded Systems & Robotics
+<p>
+  <img src="https://img.shields.io/badge/Pixhawk-005696?style=flat-square&logo=hardware&logoColor=white" alt="Pixhawk"/>
+  <img src="https://img.shields.io/badge/ArduPilot-22C55E?style=flat-square&logo=drone&logoColor=white" alt="ArduPilot"/>
+  <img src="https://img.shields.io/badge/NVIDIA_Jetson_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Jetson Nano"/>
+  <img src="https://img.shields.io/badge/Robotics-1E293B?style=flat-square&logo=robotics&logoColor=white" alt="Robotics"/>
+</p>
+
+### Development & Tools
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
-</p>
-
-### Cloud, DevOps & Tooling
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="MS Excel"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ### Skill Overview Matrix
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,react,next,tailwind,nodejs,fastapi,postgres,mongodb,redis,docker,kubernetes,aws,git&theme=dark" alt="Skill Icons Matrix"/>
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,nodejs,express,postgres,vercel,git,github&theme=dark" alt="Skill Icons Matrix"/>
   </a>
 </p>
 
@@ -139,203 +132,244 @@ I am a **Senior Software & AI/ML Engineer** dedicated to architecting high-avail
 
 | Domain | Proficiency | Details & Engineering Capabilities |
 | :--- | :---: | :--- |
-| **Computer Vision & Fusion** | `Expert (95%)` | Real-time object detection, spatial video analytics, multi-modal evidence fusion, OpenCV & YOLOv8 architectures. |
-| **LLMs & Multi-Agent Systems** | `Advanced (90%)` | RAG pipelines, LangChain, LlamaIndex, fine-tuning open-weights models, multi-agent coordination frameworks. |
-| **Neural Architectures & DL** | `Advanced (88%)` | Custom PyTorch model development, Transformer models, Graph Neural Networks (GNN), TensorRT optimization. |
-| **MLOps & Model Deployment** | `Senior (92%)` | Dockerized inference microservices, Triton Inference Server, MLflow model tracking, sub-50ms latency serving. |
-| **Predictive & Graph Analytics** | `Advanced (87%)` | Graph centrality metrics, network link prediction, anomaly detection, real-time data streaming with Kafka. |
+| **AI Agents & Workflows** | `Advanced (90%)` | Autonomous ordering AI agents with n8n, Google AI Studio, LLM APIs, menu integrations. |
+| **Code Security & Web3** | `Advanced (88%)` | Automated AI code auditing, Algorand HTTP 402 micropayments, on-chain NFT certificate generation. |
+| **Fraud & Phishing Detection** | `Expert (92%)` | Multi-signal scam analysis across SMS, WhatsApp, emails, screenshots, URLs, and documents (ScanShield). |
+| **Embedded AI & Robotics** | `Intermediate (85%)` | Pixhawk flight controllers, ArduPilot firmware configuration, Jetson Nano onboard compute execution. |
 
 ---
 
 ## ⚡ 5. Featured Projects
 
 <details>
-<summary><b>🔹 Project 01: TRACE FINDERS — AI-Powered Evidence Fusion & Criminal Network Analysis (SIH)</b></summary>
+<summary><b>🔹 Project 01: ScanShield — AI-Powered Scam & Fraud Detection Platform</b></summary>
 
 <br/>
 
-> **AI-Powered Criminal Network Analysis & Evidence Fusion System (SIH26189)**  
-> Next-generation forensic intelligence platform engineered to analyze heterogeneous criminal datasets, construct dynamic entity-relationship graphs, and perform real-time multi-modal evidence fusion.
+> **Multi-Channel Fraud Signal Scanner & Risk Assessment Platform**  
+> Security platform engineered to analyze SMS messages, WhatsApp chats, emails, screenshots, URLs, and document attachments to flag impersonation and phishing signals.
 
 | Metric / Dimension | Specification & Details |
 | :--- | :--- |
-| **Stack** | Python, FastAPI, PyTorch, Neo4j Graph DB, OpenCV, Next.js, Docker, Redis |
-| **Scale** | 100,000+ graph nodes, multi-modal video/text ingestion stream |
-| **Performance** | Sub-100ms real-time graph traversal & automated link discovery |
-| **Security** | Zero-Trust Role Based Access Control (RBAC), end-to-end AES-256 data encryption |
-| **Impact** | Selected for national Hackathon finals; reduces investigative analysis latency by 85% |
-| **Repository** | [`nikhil24x5183-netizen/tracefinders`](https://github.com/nikhil24x5183-netizen/tracefinders) |
+| **Domain** | AI / Cybersecurity / Risk Analysis |
+| **Live Link** | [`scamshield-ten-theta.vercel.app`](https://scamshield-ten-theta.vercel.app) |
+| **Inputs Scanned** | Text messages, image screenshots, PDF documents, URL metadata |
+| **Output** | Instant Safe / Suspicious / Fraudulent risk classification score |
+| **Impact** | Helps non-technical users identify phishing threats before sharing credentials |
+| **Repository** | [`nikhil24x5183-netizen/scanshield`](https://github.com/nikhil24x5183-netizen/scanshield) |
 
 #### Engineering Highlights & Architecture
-- **Multi-Modal Evidence Fusion Engine**: Integrated spatial computer vision with NLP text extraction to correlate witness transcripts, CCTV video feeds, and cellular telemetry into a unified investigation canvas.
-- **Graph Neural Network Analytics**: Developed Graph Convolutional Networks (GCN) running on Neo4j to automatically identify key criminal network hubs and high-density suspect clusters.
-- **Microservices Deployment**: Containerized independent ingestion, inference, and visualization services orchestrated with Docker Compose and monitored with Prometheus.
+- **Multi-Signal Input Ingestion**: Ingests unstructured text, image OCR output, and URL headers to evaluate phishing probability.
+- **Real-Time Risk Engine**: Delivers an immediate risk assessment verdict with clear explanation indicators to prevent financial scam losses.
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>🔹 Project 02: SmartMart — Offline-First Self-Billing & Checkout Engine</b></summary>
+<summary><b>🔹 Project 02: VibeShield — AI Code Security Auditor (x402 Global Challenge)</b></summary>
 
 <br/>
 
-> **High-Throughput Mobile Self-Checkout & Autonomous Retail Solution**  
-> Enterprise retail automation platform designed to alleviate in-store queue congestion by empowering consumers with instant mobile scanning and offline-resilient sync architectures.
+> **Pay-Per-Use AI Code Auditor with On-Chain NFT Verification**  
+> AI agent built during the x402 Global Challenge PreHack (Bengaluru) that audits source code, identifies vulnerabilities, suggests instant fixes, and issues proof-of-audit certificates.
 
 | Metric / Dimension | Specification & Details |
 | :--- | :--- |
-| **Stack** | TypeScript, React Native / Web, Node.js, Express, MongoDB, WebSockets, WebRTC |
-| **Scale** | 10,000+ simultaneous product scans, real-time store inventory sync |
-| **Performance** | <50ms barcode recognition, instant offline payload queuing |
-| **Security** | Dynamic token-based checkout verification & anti-fraud timestamping |
-| **Impact** | Eliminates 70% of retail checkout waiting times during peak store traffic hours |
-| **Repository** | [`nikhil24x5183-netizen/smartmart-self-billing-app`](https://github.com/nikhil24x5183-netizen/smartmart-self-billing-app) |
+| **Domain** | AI / Web3 / Code Security |
+| **Live Link** | [`hackthonn-two.vercel.app`](https://hackthonn-two.vercel.app) |
+| **Micropayments** | Algorand HTTP 402 protocol (~0.5 ALGO per audit run) |
+| **Verification** | Generates verifiable on-chain NFT audit certificates upon code scanning |
+| **Impact** | Selected participant project backed by Algorand Foundation / AlgoBharat |
+| **Repository** | [`nikhil24x5183-netizen/x402`](https://github.com/nikhil24x5183-netizen/x402) |
 
 #### Engineering Highlights & Architecture
-- **Offline-First Synchronization**: Built an IndexedDB and localized SQLite buffer that seamlessly queues cart transactions during network loss and executes delta-reconciliation upon reconnection.
-- **Camera-Based WebScan Pipeline**: Implemented a lightweight client-side barcode scanning engine leveraging WebAssembly for maximum device compatibility and rapid decoding.
+- **Algorand HTTP 402 Integration**: Leveraged Web3 HTTP 402 protocol to enable seamless per-audit crypto micro-transactions.
+- **Automated Fix Generation**: Employs AI agents to parse repository AST, flag security anti-patterns, and generate automated code patches.
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>🔹 Project 03: SecurityScanner — Automated Vulnerability Assessment Engine</b></summary>
+<summary><b>🔹 Project 03: ECE Department ERP — Smart Academic Management System</b></summary>
 
 <br/>
 
-> **Enterprise Static & Dynamic Application Security Testing (SAST/DAST) Pipeline**  
-> Automated security audit framework that scans codebases, container images, and network endpoints for OWASP Top 10 vulnerabilities, generating actionable compliance reports.
+> **Departmental Academic Workflow & Approvals Portal**  
+> Full-stack academic ERP built for the Electronics & Computer Engineering department at NMIET Pune to digitize student certificate approvals and attendance management.
 
 | Metric / Dimension | Specification & Details |
 | :--- | :--- |
-| **Stack** | TypeScript, Node.js, Python, Docker, Go, REST APIs |
-| **Scale** | Multi-repository parallel code auditing across enterprise CI/CD builds |
-| **Performance** | Scans 50,000 LOC in under 12 seconds with low false-positive threshold |
-| **Security** | Hardened sandboxed execution environments for dynamic payload testing |
-| **Impact** | Integrated into pre-commit and automated PR checks to enforce security posture |
-| **Repository** | [`nikhil24x5183-netizen/securityscanner`](https://github.com/nikhil24x5183-netizen/securityscanner) |
-
-#### Engineering Highlights & Architecture
-- **Static Analysis AST Engine**: Constructed custom Abstract Syntax Tree parsing rules to detect secrets leakage, SQL injection vectors, and prototype pollution in modern JavaScript/TypeScript repos.
-- **Automated Remediation Guidance**: Generates contextual code fix recommendations linked directly to Git pull request reviews.
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>🔹 Project 04: ECE Campus ERP — High-Availability Academic Management Platform</b></summary>
-
-<br/>
-
-> **Enterprise Educational Resource Planning & Departmental Operations System**  
-> Scalable web platform streamlining academic administration, student records, faculty workflows, and automated course evaluation telemetry.
-
-| Metric / Dimension | Specification & Details |
-| :--- | :--- |
-| **Stack** | JavaScript, HTML5/CSS3, Node.js, Express, PostgreSQL, Chart.js |
-| **Scale** | Supports 5,000+ active campus user accounts and daily attendance logs |
-| **Performance** | 99.9% operational uptime with optimized SQL index querying |
-| **Security** | Granular JWT authentication, encrypted session state management |
-| **Impact** | Centralized departmental data management across 4 academic divisions |
+| **Domain** | Full-Stack Web App / Educational Tech |
+| **Live Link** | [`ece-campus-erp-8qn9.vercel.app`](https://ece-campus-erp-8qn9.vercel.app) |
+| **User Roles** | Student, Faculty Member, Head of Department (HOD) |
+| **Workflows** | Certificate submission, attendance updates, credit approvals |
+| **Impact** | Fully automated manual paper approval pipelines across the ECE department |
 | **Repository** | [`nikhil24x5183-netizen/ece-campus-erp`](https://github.com/nikhil24x5183-netizen/ece-campus-erp) |
 
 #### Engineering Highlights & Architecture
-- **Optimized Relational Schema**: Designed normalized PostgreSQL database schemas with automated partition indexing to ensure instant analytics query responses.
-- **Role-Based Workflows**: Tailored distinct dashboards for administrative staff, faculty members, and students with strict ACL permissions.
+- **Role-Based Access Control**: Configured dynamic student and faculty dashboards with strict authorization checks.
+- **Automated Status Telemetry**: Streamlined certificate submission through HOD verification with instant attendance credit updates.
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🔹 Project 04: Restaurant AI Agent — Automated Customer Ordering Engine</b></summary>
+
+<br/>
+
+> **Conversational Order Automation with Google Sheets Menu Sync**  
+> Conversational AI ordering agent created using n8n that processes end-to-end customer restaurant selections and updates kitchen inventory in real time.
+
+| Metric / Dimension | Specification & Details |
+| :--- | :--- |
+| **Domain** | AI Automation / Conversational Agents |
+| **Stack** | n8n, LLM API, Google Sheets API |
+| **Workflow** | Order placement, menu validation, billing calculation, order confirmation |
+| **Impact** | Automates front-desk customer ordering with 0 manual intervention required |
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🔹 Project 05: Smart Mart — Queueless Self-Checkout Retail App</b></summary>
+
+<br/>
+
+> **First-Semester Retail Self-Billing & Inventory App**  
+> Retail mobile application engineered to eliminate queue wait times with customer self-checkout and admin inventory management.
+
+| Metric / Dimension | Specification & Details |
+| :--- | :--- |
+| **Domain** | Full-Stack Retail App |
+| **Features** | Customer portal (cart, checkout, order history) & Admin portal (pricing, sales dashboard) |
+| **Impact** | Built during 1st semester to enable seamless queue-skipping retail checkout |
+| **Repository** | [`nikhil24x5183-netizen/smartmart-self-billing-app`](https://github.com/nikhil24x5183-netizen/smartmart-self-billing-app) |
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🔹 Project 06: Autonomous Drone Compute Systems</b></summary>
+
+<br/>
+
+> **Hardware Compute & Flight Controller Integration**  
+> Hardware and software integration project utilizing Pixhawk controllers and Jetson Nano boards for onboard drone autonomous navigation.
+
+| Metric / Dimension | Specification & Details |
+| :--- | :--- |
+| **Hardware** | Pixhawk Flight Controller, ArduPilot Firmware, NVIDIA Jetson Nano |
+| **Focus** | Onboard computer vision compute and flight telemetry processing |
 
 </details>
 
 ---
 
-## 💼 6. Work Experience
+## 💼 6. Leadership & Campus Experience
 
-### **Lead AI & Software Architect** | *Enterprise Tech Innovations*
-`Jan 2024 – Present`
-- **Architected** distributed AI microservices handling over 5M daily API requests with 99.99% system availability.
-- **Engineered** enterprise RAG systems and multi-agent workflows reducing contextual query response latency by 65%.
-- **Led** cross-functional teams of 8 engineers across full-stack design, security compliance, and MLOps deployment pipelines.
-- `Python` `FastAPI` `PyTorch` `Kubernetes` `AWS` `React` `PostgreSQL`
+### **Multimedia Lead** | *GDGoC NMIET, Pune*
+`May 2026 – Present`
+- Produce and edit high-impact video content and technical reels for GDGoC NMIET official social channels from shoot planning to final export.
 
-### **Senior Full Stack Engineer** | *CloudScale Solutions*
-`Jul 2022 – Dec 2023`
-- **Developed** cloud-native web applications and real-time streaming dashboards utilizing Next.js, Node.js, and Redis caching.
-- **Implemented** automated CI/CD deployment pipelines on GitHub Actions and AWS ECS, cutting release cycles from days to minutes.
-- **Optimized** database queries and front-end bundle assets, improving Google Lighthouse performance scores to 98+.
-- `TypeScript` `Next.js` `Node.js` `Docker` `MongoDB` `Redis` `GraphQL`
+### **Campus Ambassador** | *E-Cell, IIT Bombay*
+`Jun 2026 – Present`
+- Represent E-Cell IIT Bombay on campus, driving student participation in entrepreneurship summits, workshops, and startup initiatives.
+
+### **Campus Mantri** | *GeeksforGeeks*
+`Jan 2026 – Jun 2026`
+- **Ranked Top 289 Nationally** in GFG's Campus Mantri selection (1st Tenure).
+- Organized coding challenges, technical workshops, and hackathons at NMIET; received official **Letter of Recommendation**.
+
+### **Campus Ambassador** | *Cognizance, IIT Roorkee*
+`Jan 2026 – Mar 2026`
+- Spearheaded student outreach for IIT Roorkee's flagship tech festival at NMIET; awarded **Certificate of Appreciation**.
+
+### **Campus Ambassador** | *Paytm*
+`2026`
+- Represented Paytm on campus as part of its official Brand Ambassador Program.
+
+### **ISRO Program Participant** | *Indian Space Research Organisation*
+`2025`
+- Selected for an ISRO-organized space science program; engaged with scientists on emerging space tech and AI applications.
 
 ---
 
-## 🏆 7. Key Achievements
+## 🏆 7. Hackathons & Achievements
 
 <div align="center">
 
-| Recognition & Award | Description & Details |
+| Competition / Organization | Achievement & Status |
 | :--- | :--- |
-| 🥇 **Smart India Hackathon (SIH) National Finalist** | Selected among top software teams nationwide for building the AI TRACE FINDERS Evidence System. |
-| ⚡ **Top 1% High Performance Code Contributor** | Recognized for architecture optimization and low-latency algorithmic design in open-source projects. |
-| 🛡️ **Enterprise Security Innovation Award** | Awarded for developing automated SAST scanning tools with sub-second vulnerability flagging. |
-| 📜 **Academic High Honors Distinction** | Maintained top percentile academic standing in Computer Science / ECE curriculum. |
+| 🚀 **ISRO Program Selection** | Selected for ISRO space technology program on emerging AI applications in space research. |
+| 💚 **GeeksforGeeks Campus Mantri** | **Ranked Top 289 Nationally** across India; awarded official Letter of Recommendation. |
+| ⚡ **x402 Global Challenge PreHack** | Selected participant in Bengaluru hackathon backed by Algorand Foundation / AlgoBharat. |
+| 🏆 **Manipal University HackX 4.0** | Shortlisted for **Round 2 On-Campus Finals** (Sep 2026). |
+| 🌐 **OpenSwarm Hackathon (Bengaluru)** | Completed as **Solo Participant** among 300+ competitors in AI hackathon. |
+| 🎯 **Convolve 4.0 (Pan-IIT AI/ML)** | Competed in Pan-IIT AI/ML Hackathon during Unstop Holiday Fest. |
+| ⏱️ **Byte Quest AI Vibe Coding** | Competed in 24-hour AI Vibe Coding Challenge (Jan 2026). |
 
 </div>
 
 ---
 
-## 📜 8. Certifications
+## 📜 8. Certifications & Memberships
 
 <div align="center">
 
-### Amazon Web Services (AWS)
+### Professional Associations & Certifications
 <p>
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Solutions Architect"/>
-  <img src="https://img.shields.io/badge/AWS-Machine_Learning_Specialty-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS ML Specialty"/>
+  <img src="https://img.shields.io/badge/IAENG-Member_Since_July_2026-005696?style=for-the-badge&logo=academic-tree&logoColor=white" alt="IAENG Member"/>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Certificate_of_Completion-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Cert"/>
 </p>
 
-### Oracle
+### Industry Virtual Simulations (Forage)
 <p>
-  <img src="https://img.shields.io/badge/Oracle-Certified_Professional_Java_SE-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Java Professional"/>
-  <img src="https://img.shields.io/badge/Oracle-Database_SQL_Certified_Specialist-C74634?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL Specialist"/>
-</p>
-
-### NPTEL & National Academics
-<p>
-  <img src="https://img.shields.io/badge/NPTEL-Deep_Learning_%26_Neural_Networks-005696?style=for-the-badge&logo=academic-tree&logoColor=white" alt="NPTEL Deep Learning"/>
-  <img src="https://img.shields.io/badge/NPTEL-Data_Structures_%26_Algorithms_in_C++-0284C7?style=for-the-badge&logo=cplusplus&logoColor=white" alt="NPTEL DSA"/>
-</p>
-
-### Cisco Networking Academy
-<p>
-  <img src="https://img.shields.io/badge/Cisco-CCNA_Network_Infrastructure_%26_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA"/>
+  <img src="https://img.shields.io/badge/Tata-Cybersecurity_Analyst_Simulation-000000?style=for-the-badge&logo=shield&logoColor=white" alt="Tata Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Deloitte_Australia-Data_Analytics_Simulation-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" alt="Deloitte Analytics"/>
 </p>
 
 </div>
 
 ---
 
-## 🧩 9. Coding Profiles
+## 🎓 9. Education
+
+| Degree / Certificate | Institution | Score / Status | Year |
+| :--- | :--- | :---: | :---: |
+| **B.Tech, Electronics & Computer Engineering** | NMIET, Pune | **CGPA: 8.64 / 10** *(Sem 1: 9.14)* | 2025 – 2029 |
+| **Higher Secondary (12th CBSE)** | Regal Public School | **81%** | 2025 |
+| **Secondary School Certificate (10th)** | CBSE | **83%** | 2023 |
+
+---
+
+## 🧩 10. Coding Profiles
 
 <div align="center">
 
   <a href="https://leetcode.com/nikhil24x5183">
-    <img src="https://img.shields.io/badge/LeetCode-Knight_Rank_%7C_Solve_500+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+    <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
   </a>
   <a href="https://geeksforgeeks.org">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Top_Percentile_Coder-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Campus_Mantri_Top_289-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile"/>
   </a>
   <a href="https://hackerrank.com">
-    <img src="https://img.shields.io/badge/HackerRank-5_Star_Problem_Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile"/>
+    <img src="https://img.shields.io/badge/HackerRank-Problem_Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile"/>
   </a>
   <a href="https://codechef.com">
-    <img src="https://img.shields.io/badge/CodeChef-Division_1_Competitive_Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
+    <img src="https://img.shields.io/badge/CodeChef-Competitive_Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
   </a>
 
 </div>
 
 ---
 
-## 📊 10. GitHub Analytics
+## 📊 11. GitHub Analytics
 
 <div align="center">
 
@@ -350,7 +384,7 @@ I am a **Senior Software & AI/ML Engineer** dedicated to architecting high-avail
 
 ---
 
-## 🏆 11. GitHub Trophies
+## 🏆 12. GitHub Trophies
 
 <div align="center">
 
@@ -360,7 +394,7 @@ I am a **Senior Software & AI/ML Engineer** dedicated to architecting high-avail
 
 ---
 
-## 📈 12. Contribution Activity
+## 📈 13. Contribution Activity
 
 <div align="center">
 
@@ -370,7 +404,7 @@ I am a **Senior Software & AI/ML Engineer** dedicated to architecting high-avail
 
 ---
 
-## 🐍 13. Contribution Snake
+## 🐍 14. Contribution Snake
 
 <div align="center">
 
@@ -380,46 +414,46 @@ I am a **Senior Software & AI/ML Engineer** dedicated to architecting high-avail
 
 ---
 
-## 🎯 14. Current Focus
+## 🎯 15. Current Focus
 
 ```yaml
-learning: "Distributed Systems Consensus & Advanced LLM Fine-Tuning"
-building: "High-Throughput Multi-Agent Evidence Fusion Engines"
-exploring: "Quantum Machine Learning & Real-Time Graph Neural Networks"
-open_to: "Architectural Consulting, AI Research Collaborations & Tech Talks"
+learning: "AI Agents Architecture, Data Structures & Algorithms, Drone Firmware"
+building: "ScanShield Fraud Scanner & VibeShield Web3 Code Auditor"
+exploring: "ISRO Space Tech AI Applications & Jetson Nano Autonomous Robotics"
+open_to: "AI / Robotics / Software Engineering Internships & Research"
 ```
 
 ---
 
-## 📬 15. Connect With Me
+## 📬 16. Connect With Me
 
 <div align="center">
 
-  <a href="mailto:nikhil.awadhwal.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:nikhil24x5183@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-nikhil24x5183%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/nikhil-awadhwal">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/nikhil24x5183-netizen">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://linkedin.com/in/nikhilawadhwal">
+    <img src="https://img.shields.io/badge/LinkedIn-nikhilawadhwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://github.com/nikhil24x5183-netizen">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/GitHub-nikhil24x5183--netizen-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://nikhil24x5183-netizen.github.io/resturant">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Projects-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 
 </div>
 
 ---
 
-## ⚓ 16. Footer
+## ⚓ 17. Footer
 
 <div align="center">
 
-  > *"Engineering resilient systems at the intersection of Artificial Intelligence and Enterprise Scale."*
+  > *"Building AI-Powered Systems, Autonomous Robotics, and Resilient Software Solutions."*
 
   <br/>
 
