@@ -40,6 +40,11 @@
 
 </div>
 
+<br/>
+
+<!-- Running Dinosaur Animation Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Dino Line Animation"/>
+
 ---
 
 ## 🛠️ Languages & Tech Stack
@@ -66,9 +71,14 @@
 
 ---
 
-## 🐍 Contribution Snake Animation & Telemetry
+## 🦕 Dinosaur Animation & Contribution Snake
 
 <div align="center">
+
+  <!-- Running Dinosaur Animation Walk -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Dinosaur Walking Animation"/>
+
+  <br/><br/>
 
   <!-- Animated Contribution Grid Snake -->
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Grid Snake Animation"/>
