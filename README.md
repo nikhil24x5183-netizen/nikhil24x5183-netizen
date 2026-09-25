@@ -12,7 +12,7 @@
 
   <br/><br/>
 
-  <!-- 3. Animated & Glowing Header Badges -->
+  <!-- 3. Header Badges -->
   <img src="https://img.shields.io/badge/Repos-17%20Public%20Repositories-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="17 Repos"/>
   <img src="https://img.shields.io/badge/Degree-B.Tech%20ECE%20%40%20NMIET-6D28D9?style=for-the-badge&logo=academic-tree&logoColor=white" alt="ECE Student"/>
   <img src="https://img.shields.io/badge/CGPA-8.64%20%2F%2010.0-7C3AED?style=for-the-badge&logo=award&logoColor=white" alt="CGPA"/>
@@ -40,14 +40,9 @@
 
 </div>
 
-<br/>
-
-<!-- Animated Gradient Waving Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Dino Line Animation"/>
-
 ---
 
-## 🛠️ Languages & Tech Stack (Real Contribution Breakdown)
+## 🛠️ Languages & Tech Stack
 
 <div align="center">
 
@@ -69,11 +64,9 @@
 
 </div>
 
-<br/>
-
 ---
 
-## ⚡ Real Shipped Repositories & Projects
+## ⚡ Featured Projects & Repositories
 
 <details>
 <summary><b>🕵️ TRACE FINDERS — AI Criminal Network Analysis (SIH Finalist)</b></summary>
@@ -133,39 +126,16 @@ Automated security scanner for code vulnerability detection and SAST compliance.
 📂 <b>Repository</b>: <a href="https://github.com/nikhil24x5183-netizen/securityscanner">nikhil24x5183-netizen/securityscanner</a>
 </details>
 
-<br/>
-
 ---
 
-## 🦕 Animal Animations & Real Contribution Telemetry
+## 📊 Contribution Telemetry & Streak
 
 <div align="center">
 
-  <!-- Typing Cat Animated GIF -->
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" alt="Animated Typing Cat"/>
-
-  <br/><br/>
-
-  <!-- Running T-Rex Dinosaur Animation -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Dino Walking Animation"/>
-
-  <br/><br/>
-
-  <!-- Animated Contribution Grid Snake / Dino -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhil24x5183-netizen/nikhil24x5183-netizen/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhil24x5183-netizen/nikhil24x5183-netizen/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake & Dino" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-
-  <br/><br/>
-
-  <!-- Real Streak Stats -->
+  <!-- 100% Reliable Synthwave Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil24x5183-netizen&theme=synthwave&hide_border=true&background=0d1117&ring=7c3aed&fire=8b5cf6&currStreakLabel=7c3aed" alt="Streak Stats" width="80%"/>
 
 </div>
-
-<br/>
 
 ---
 
