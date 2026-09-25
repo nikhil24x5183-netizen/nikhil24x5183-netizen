@@ -5,9 +5,9 @@
 
   <br/>
 
-  <!-- 2. High-Visibility Animated Typing SVG (Full Width, No Cutoff) -->
+  <!-- 2. High-Visibility Animated Typing SVG -->
   <a href="https://github.com/nikhil24x5183-netizen">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A78BFA&background=0D111700&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Building+AI-Powered+Systems+%26+Autonomous+Robotics;%F0%9F%A4%96+Creator+of+TRACE+FINDERS%2C+ScanShield+%26+VibeShield;%F0%9F%8D%93+ECE+Student+@+NMIET+Pune+(CGPA+8.64);%F0%9F%9B%B0%EF%B8%8F+ISRO+Program+Participant+%7C+17+Public+Repositories" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A78BFA&background=0D111700&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Building+AI-Powered+Systems+%26+Autonomous+Robotics;%F0%9F%93%88+JavaScript+(944KB)+%7C+Python+(755KB)+%7C+TypeScript+(213KB);%F0%9F%A4%96+Creator+of+TRACE+FINDERS%2C+ScanShield+%26+VibeShield;%F0%9F%9A%81+ECE+Student+@+NMIET+Pune+(CGPA+8.64)+%7C+ISRO+Participant" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -66,6 +66,22 @@
 
 ---
 
+## 🐍 Contribution Snake Animation & Streak Telemetry
+
+<div align="center">
+
+  <!-- Animated Contribution Grid Snake SVG -->
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Grid Snake Animation"/>
+
+  <br/><br/>
+
+  <!-- 100% Reliable Synthwave Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil24x5183-netizen&theme=synthwave&hide_border=true&background=0d1117&ring=7c3aed&fire=8b5cf6&currStreakLabel=7c3aed" alt="Streak Stats" width="80%"/>
+
+</div>
+
+---
+
 ## ⚡ Featured Projects & Repositories
 
 <details>
@@ -115,27 +131,6 @@ Self-checkout retail app with customer portal & admin inventory pricing dashboar
 <br/>
 📂 <b>Repository</b>: <a href="https://github.com/nikhil24x5183-netizen/smartmart-self-billing-app">nikhil24x5183-netizen/smartmart-self-billing-app</a>
 </details>
-
-<br/>
-
-<details>
-<summary><b>🔒 SecurityScanner — Vulnerability Audit Engine</b></summary>
-<br/>
-Automated security scanner for code vulnerability detection and SAST compliance.
-<br/>
-📂 <b>Repository</b>: <a href="https://github.com/nikhil24x5183-netizen/securityscanner">nikhil24x5183-netizen/securityscanner</a>
-</details>
-
----
-
-## 📊 Contribution Telemetry & Streak
-
-<div align="center">
-
-  <!-- 100% Reliable Synthwave Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil24x5183-netizen&theme=synthwave&hide_border=true&background=0d1117&ring=7c3aed&fire=8b5cf6&currStreakLabel=7c3aed" alt="Streak Stats" width="80%"/>
-
-</div>
 
 ---
 
