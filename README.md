@@ -1,66 +1,44 @@
 <div align="center">
 
-  <!-- Arcade / Minecraft Style Header with Pixel Dinosaurs on Sides & Name in Middle -->
-  <table border="0" align="center" style="border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-      <td align="center" valign="middle" width="120" style="border: none;">
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100" alt="Arcade Dino Left"/>
-      </td>
-      <td align="center" valign="middle" style="border: none;">
-        <h1 align="center">
-          <font color="#8B5CF6">👾 NIKHIL MUKESH AWADHWAL 👾</font>
-        </h1>
-        <p align="center">
-          <code>[ ARCADE MODE: ACTIVE ]</code> • <b>AI Agents | Robotics | ECE Student @ NMIET Pune</b>
-        </p>
-      </td>
-      <td align="center" valign="middle" width="120" style="border: none;">
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100" alt="Arcade Dino Right"/>
-      </td>
-    </tr>
-  </table>
+  <!-- 1. Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,30&height=220&section=header&text=NIKHIL%20MUKESH%20AWADHWAL&fontSize=40&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=Building%20AI-Powered%20Systems%20%7C%20Robotics%20%7C%2017%20Public%20Repos&descAlignY=62&descAlign=50" width="100%" alt="Header Banner"/>
 
   <br/>
 
-  <!-- Retro 8-bit Arcade Typing SVG -->
+  <!-- 2. High-Visibility Animated Typing SVG (Full Width, No Cutoff) -->
   <a href="https://github.com/nikhil24x5183-netizen">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=15&pause=1000&color=A78BFA&background=0D111700&center=true&vCenter=true&width=680&lines=BUILDING+AI-POWERED+SYSTEMS+%26+ROBOTICS;ECE+STUDENT+@+NMIET+PUNE+(CGPA+8.64);ISRO+PROGRAM+PARTICIPANT;CREATOR+OF+SCANSHIELD+%26+VIBESHIELD" alt="Arcade Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A78BFA&background=0D111700&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Building+AI-Powered+Systems+%26+Autonomous+Robotics;%F0%9F%A4%96+Creator+of+TRACE+FINDERS%2C+ScanShield+%26+VibeShield;%F0%9F%8D%93+ECE+Student+@+NMIET+Pune+(CGPA+8.64);%F0%9F%9B%B0%EF%B8%8F+ISRO+Program+Participant+%7C+17+Public+Repositories" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Arcade & Minecraft Style Badges -->
-  <img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F_DEGREE-B.Tech_ECE_%40_NMIET-4C1D95?style=for-the-badge&logoColor=white" alt="Degree"/>
-  <img src="https://img.shields.io/badge/%F0%9F%92%8E_CGPA-8.64_%2F_10.0-6D28D9?style=for-the-badge&logoColor=white" alt="CGPA"/>
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80_ISRO-Program_Participant-005696?style=for-the-badge&logoColor=white" alt="ISRO"/>
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D_LOCATION-Pune%2C_India-7C3AED?style=for-the-badge&logoColor=white" alt="Location"/>
+  <!-- 3. Header Badges -->
+  <img src="https://img.shields.io/badge/Repos-17%20Public%20Repositories-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="17 Repos"/>
+  <img src="https://img.shields.io/badge/Degree-B.Tech%20ECE%20%40%20NMIET-6D28D9?style=for-the-badge&logo=academic-tree&logoColor=white" alt="ECE Student"/>
+  <img src="https://img.shields.io/badge/CGPA-8.64%20%2F%2010.0-7C3AED?style=for-the-badge&logo=award&logoColor=white" alt="CGPA"/>
+  <img src="https://img.shields.io/badge/ISRO-Program%20Participant-005696?style=for-the-badge&logo=nasa&logoColor=white" alt="ISRO Participant"/>
 
   <br/><br/>
 
-  <!-- Action Buttons -->
+  <!-- 4. Interactive Action Buttons -->
   <a href="https://nikhil24x5183-netizen.github.io/resturant">
-    <img src="https://img.shields.io/badge/%F0%9F%8E%AE_PORTFOLIO-Live_Projects-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Live_Showcase-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/nikhilawadhwal">
-    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:nikhil24x5183@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
   <br/><br/>
 
-  <!-- Telemetry Badges -->
-  <img src="https://komarev.com/ghpvc/?username=nikhil24x5183-netizen&color=7c3aed&style=for-the-badge&label=VIEWS" alt="Profile Views"/>
+  <!-- 5. Profile Telemetry & Badges -->
+  <img src="https://komarev.com/ghpvc/?username=nikhil24x5183-netizen&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/nikhil24x5183-netizen?style=for-the-badge&color=6d28d9&labelColor=0d1117&logo=github" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/nikhil24x5183-netizen?style=for-the-badge&color=8b5cf6&labelColor=0d1117&logo=github" alt="Stars"/>
 
 </div>
-
-<br/>
-
-<!-- Arcade Running Dinosaur Line Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Arcade Dino Line Divider"/>
 
 ---
 
@@ -83,27 +61,6 @@
     <img src="https://skillicons.dev/icons?i=js,python,html,css,ts,cpp,nodejs,express,postgres,docker,vercel,git,github,arduino&theme=dark" alt="Skill Icons Matrix"/>
   </a>
 </p>
-
-</div>
-
----
-
-## 🦕 Contribution Snake & Streak Telemetry
-
-<div align="center">
-
-  <!-- Running Dinosaur Walk -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Arcade Dino Walking Animation"/>
-
-  <br/><br/>
-
-  <!-- Contribution Grid Snake Animation -->
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Grid Snake Animation"/>
-
-  <br/><br/>
-
-  <!-- Reliable Synthwave Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil24x5183-netizen&theme=synthwave&hide_border=true&background=0d1117&ring=7c3aed&fire=8b5cf6&currStreakLabel=7c3aed" alt="Streak Stats" width="80%"/>
 
 </div>
 
@@ -159,6 +116,27 @@ Self-checkout retail app with customer portal & admin inventory pricing dashboar
 📂 <b>Repository</b>: <a href="https://github.com/nikhil24x5183-netizen/smartmart-self-billing-app">nikhil24x5183-netizen/smartmart-self-billing-app</a>
 </details>
 
+<br/>
+
+<details>
+<summary><b>🔒 SecurityScanner — Vulnerability Audit Engine</b></summary>
+<br/>
+Automated security scanner for code vulnerability detection and SAST compliance.
+<br/>
+📂 <b>Repository</b>: <a href="https://github.com/nikhil24x5183-netizen/securityscanner">nikhil24x5183-netizen/securityscanner</a>
+</details>
+
+---
+
+## 📊 Contribution Telemetry & Streak
+
+<div align="center">
+
+  <!-- 100% Reliable Synthwave Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil24x5183-netizen&theme=synthwave&hide_border=true&background=0d1117&ring=7c3aed&fire=8b5cf6&currStreakLabel=7c3aed" alt="Streak Stats" width="80%"/>
+
+</div>
+
 ---
 
 ## 🎯 Current Focus & Connect
@@ -183,5 +161,10 @@ open_to: "AI / Robotics / Software Engineering Internships"
   <a href="https://github.com/nikhil24x5183-netizen">
     <img src="https://img.shields.io/badge/GitHub-nikhil24x5183--netizen-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+
+  <br/><br/>
+
+  <!-- Animated Footer Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,30&height=100&section=footer" width="100%" alt="Footer Banner"/>
 
 </div>
