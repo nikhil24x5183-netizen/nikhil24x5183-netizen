@@ -76,33 +76,6 @@
 
 ---
 
-## 🦕 Dinosaur Walk & Contribution Snake
-
-<div align="center">
-
-  <!-- Running T-Rex Dinosaur Animation -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Dino Walking Animation"/>
-
-  <br/><br/>
-
-  <!-- Animated Contribution Grid Snake / Dino -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake & Dino" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-
-  <br/><br/>
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhil24x5183-netizen&theme=react-dark&bg_color=0d1117&hide_border=true&color=8b5cf6&line=7c3aed&point=ffffff" alt="Activity Graph" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
 ## ⚡ Featured Projects
 
 <details>
@@ -145,16 +118,31 @@ Drone builds with Pixhawk, ArduPilot, and Jetson Nano onboard compute + n8n conv
 
 ---
 
-## 📊 GitHub Analytics & Trophies
+## 🦕 Animal Animations & GitHub Activity
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhil24x5183-netizen&show_icons=true&theme=synthwave&hide_border=true&title_color=8b5cf6&icon_color=7c3aed&bg_color=0d1117" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil24x5183-netizen&theme=synthwave&hide_border=true&background=0d1117&ring=7c3aed&fire=8b5cf6&currStreakLabel=7c3aed" alt="Streak Stats" width="49%"/>
+  <!-- Typing Cat Animated GIF -->
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" alt="Animated Typing Cat"/>
 
   <br/><br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhil24x5183-netizen&theme=darkhub&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" width="100%"/>
+  <!-- Running T-Rex Dinosaur Animation -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Dino Walking Animation"/>
+
+  <br/><br/>
+
+  <!-- Animated Contribution Grid Snake / Dino -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake & Dino" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+
+  <br/><br/>
+
+  <!-- 100% Reliable Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil24x5183-netizen&theme=synthwave&hide_border=true&background=0d1117&ring=7c3aed&fire=8b5cf6&currStreakLabel=7c3aed" alt="Streak Stats" width="80%"/>
 
 </div>
 
