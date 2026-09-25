@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- 1. Animated Header Banner -->
+  <!-- Animated Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,30&height=200&section=header&text=NIKHIL%20MUKESH%20AWADHWAL&fontSize=36&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=AI%20Agents%20%7C%20Robotics%20%7C%20ECE%20Student%20@%20NMIET%20Pune&descAlignY=62&descAlign=50" width="100%" alt="Header Banner"/>
 
   <br/>
@@ -39,16 +39,6 @@
   <img src="https://img.shields.io/github/stars/nikhil24x5183-netizen?style=for-the-badge&color=8b5cf6&labelColor=0d1117&logo=github" alt="Stars"/>
 
 </div>
-
----
-
-## ⚡ About Me
-
-Second-year **Electronics & Computer Engineering student at NMIET Pune (CGPA 8.64)** building **AI agents, Web3 code auditors, and autonomous drone systems**. 
-
-- 🤖 **AI & Security**: Creator of **ScanShield** (AI fraud scanner) & **VibeShield** (Algorand Web3 code auditor).
-- 🚁 **Robotics & Hardware**: Autonomous drone builds powered by **Pixhawk**, **ArduPilot**, and **NVIDIA Jetson Nano**.
-- 🌟 **Leadership**: GDGoC NMIET Multimedia Lead, E-Cell IIT Bombay Ambassador, and **GFG Campus Mantri (Ranked Top 289 Nationally)**.
 
 ---
 
@@ -142,22 +132,12 @@ Drone builds with Pixhawk, ArduPilot, and Jetson Nano onboard compute + n8n conv
 
 ---
 
-## 🏆 Key Achievements & Experience
-
-- 🚀 **ISRO Program Participant**: Selected for ISRO space technology & AI research program.
-- 💚 **GeeksforGeeks Campus Mantri**: **Ranked Top 289 Nationally** across India.
-- ⚡ **x402 Global Challenge PreHack**: Selected participant (Algorand / AlgoBharat).
-- 🏆 **Manipal HackX 4.0**: Shortlisted for Round 2 On-Campus Finals.
-- 🎬 **GDGoC NMIET Multimedia Lead** | 🏛️ **E-Cell IIT Bombay Ambassador**.
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhil24x5183-netizen&show_icons=true&theme=synthwave&hide_border=true&title_color=8b5cf6&icon_color=7c3aed&bg_color=0d1117" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil24x5183-netizen&theme=synthwave&hide_border=true&background=0d1117&ring=7c3aed&fire=8b5cf6&currStreakLabel=7c3aed" alt="Streak Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhil24x5183-netizen&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil24x5183-netizen&theme=tokyonight&hide_border=true" alt="Streak Stats" width="49%"/>
 
 </div>
 
